@@ -223,6 +223,8 @@ The most common, and most expensive, cloud security failures are not exotic atta
 - [VAPT](https://github.com/garynair/vapt) - A companion curated list covering Prowler, ScoutSuite, and other cloud-focused testing tools in the context of an authorized penetration-testing engagement.
 - [Federal Compliance](https://github.com/garynair/federal-compliance) - A companion curated list covering FedRAMP, the federal-specific cloud authorization program this list's general cloud security practices feed into.
 - [Risk Management](https://github.com/garynair/risk-management) - A companion curated list covering the risk register and third-party/vendor risk process that cloud misconfigurations and vendor SOC 2 reviews feed into.
+- [Privacy Compliance](https://github.com/garynair/privacy) - A companion curated list covering GDPR, CCPA/CPRA, and the US state privacy patchwork — the privacy-specific obligations that run alongside these requirements.
+- [Incident Response & BCP/DR](https://github.com/garynair/ir-bc-dr) - A companion curated list covering incident response planning, playbooks, tabletop exercises, and BIA-driven disaster recovery.
 
 ---
 
