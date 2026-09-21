@@ -1,0 +1,11 @@
+Control Area,IaaS Responsibility,PaaS Responsibility,SaaS Responsibility,Notes
+Data classification and accountability,Customer,Customer,Customer,Always the customer regardless of service model
+Client/endpoint protection,Customer,Customer,Customer,Always the customer regardless of service model
+Identity and access management,Customer,Customer,Customer (configuration only),SaaS customer configures SSO/MFA but provider controls underlying identity infra
+Application-level controls,Customer,Shared,Provider,Confirm with provider's specific shared-responsibility documentation
+Operating system patching,Customer,Provider,Provider,Verify for unmanaged PaaS components
+Network controls,Customer (with provider tools),Shared,Provider,Customer still configures security groups/firewall rules in most PaaS
+Host infrastructure,Provider,Provider,Provider,
+Physical security,Provider,Provider,Provider,
+Encryption key management,Customer (or shared with provider-managed keys),Customer or Provider (per service),Provider (typically),Confirm bring-your-own-key (BYOK) options if required by policy
+Logging and monitoring enablement,Customer,Customer,Provider (customer enables where available),Must be explicitly turned on in most cases - not on by default
