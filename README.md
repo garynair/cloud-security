@@ -169,7 +169,7 @@ The most common, and most expensive, cloud security failures are not exotic atta
 4. Track SOC 2 report expiry/renewal dates for every critical vendor as part of the Third-Party and Vendor Risk Management process in the companion [Risk Management](https://github.com/garynair/risk-management) list — a stale SOC 2 report is not current assurance.
 
 - [AICPA SOC 2 Overview](https://www.aicpa-cima.com/topic/audit-assurance/audit-and-assurance-greater-than-soc-2) - The AICPA's own overview of the SOC 2 framework, the Trust Services Criteria, and Type I vs. Type II distinctions.
-- [AICPA Trust Services Criteria](https://www.aicpa-cima.com/resources/download/2017-trust-services-criteria-with-revised-points-of-focus-2022) - The full, current criteria document defining exactly what a SOC 2 audit tests against.
+- [AICPA Trust Services Criteria](https://www.aicpa-cima.com/topic/audit-assurance/download/2017-trust-services-criteria-with-revised-points-of-focus-2022) - The full, current criteria document defining exactly what a SOC 2 audit tests against.
 
 ---
 
