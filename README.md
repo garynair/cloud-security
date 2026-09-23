@@ -1,3 +1,5 @@
+![Cloud Security](docs/banner.png)
+
 # Cloud Security
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
